@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Custom CSS */
+#sidebar {
+  display: none;
+}
