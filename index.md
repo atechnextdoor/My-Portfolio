@@ -4,7 +4,14 @@ Hi! My name is Ryon Riley. I've created this page to showcase my web design skil
 
 ## Projects
 Here are some websites I've helped build:
-- http://www.toptiergifts.com/ - Squarespace
-- http://christianladyveteran.com/ - WordPress
-- http://stclairesinteriordesign.com/ - WordPress
-- http://jakeboring.com/ - WordPress
+- https://www.toptiergifts.com/ - Squarespace
+- https://christianladyveteran.com/ - WordPress
+- https://stclairesinteriordesign.com/ - WordPress
+- https://jakeboring.com/ - WordPress
+
+And some websites I've helped make design changes on:
+- https://ticketmanager.com - WordPress
+- https://theirc.me/ - Squarespace
+- https://ayanasvillage.org/ - WordPress
+- https://furbabycountryclub.com/ - WordPress
+- https://landlord101.com/ - WordPress
