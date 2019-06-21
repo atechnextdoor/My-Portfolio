@@ -1,2 +1,2 @@
-# Creating a web portfolio for showcasing my skillz.
-## Testing git functionality via Win10.
+# About
+### Hi! My name is Ryon Riley. I've created this page to showcase my web design skills.
