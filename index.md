@@ -15,3 +15,5 @@ And some websites I've helped make design changes on:
 - https://ayanasvillage.org/ - WordPress
 - https://furbabycountryclub.com/ - WordPress
 - https://landlord101.com/ - WordPress
+
+For questions, please contact me via email: ryon@atechnextdoor.com.
