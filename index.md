@@ -2,8 +2,6 @@
 
 Hi! My name is Ryon Riley. I've created this page to showcase my web design skills.
 
-(assets/css/Ryon Riley.JPG)
-
 ## Projects
 Here are some websites I've helped build:
 - https://www.toptiergifts.com/ - Squarespace
