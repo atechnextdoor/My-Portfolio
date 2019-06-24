@@ -8,6 +8,7 @@ Here are some websites I've helped build:
 - https://christianladyveteran.com/ - WordPress
 - https://stclairesinteriordesign.com/ - WordPress
 - https://jakeboring.com/ - WordPress
+- https://broswoodwork.com/ - Squarespace
 
 And some websites I've helped make design changes on:
 - https://ticketmanager.com - WordPress
