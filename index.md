@@ -7,6 +7,7 @@ Here are some websites I've helped build:
 - <https://www.toptiergifts.com> - Squarespace
 - <https://christianladyveteran.com> - WordPress
 - <https://stclairesinteriordesign.com> - WordPress
+- <https://godlife.online> - WordPress
 - <https://jakeboring.com> - WordPress
 - <https://broswoodwork.com> - Squarespace
 
