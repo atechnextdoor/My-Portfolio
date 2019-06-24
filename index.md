@@ -16,3 +16,6 @@ And some websites I've helped make design changes on:
 - https://ayanasvillage.org/ - WordPress
 - https://furbabycountryclub.com/ - WordPress
 - https://landlord101.com/ - WordPress
+
+### Other projects
+- https://codepen.io/atnd/full/qzaVLX - Wistia Embed Links HTML Player
