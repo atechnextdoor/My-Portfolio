@@ -11,7 +11,7 @@ Here are some websites I've helped build:
 - https://broswoodwork.com/ - Squarespace
 
 And some websites I've helped make design changes on:
-- https://ticketmanager.com - WordPress
+- [https://ticketmanager.com] - WordPress
 - https://theirc.me/ - Squarespace
 - https://ayanasvillage.org/ - WordPress
 - https://furbabycountryclub.com/ - WordPress
@@ -19,7 +19,3 @@ And some websites I've helped make design changes on:
 
 ### Other projects
 - https://codepen.io/atnd/full/qzaVLX - Wistia Embed Links HTML Player
-
-{% if user %}
-	Hello {{ user.name }}!
-{% endif %}
