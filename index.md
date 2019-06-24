@@ -1,5 +1,7 @@
 
-<title>Portfolio | RyonRiley.com</title>
+<head>
+	<title>Portfolio | RyonRiley.com</title>
+</head>
 
 ## About
 Hi! My name is Ryon Riley. I've created this page to showcase my web design skills.
