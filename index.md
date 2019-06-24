@@ -19,3 +19,7 @@ And some websites I've helped make design changes on:
 
 ### Other projects
 - https://codepen.io/atnd/full/qzaVLX - Wistia Embed Links HTML Player
+
+{% if user %}
+	Hello {{ user.name }}!
+{% endif %}
