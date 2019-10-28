@@ -9,7 +9,6 @@ Here are some websites I've helped build:
 - <https://godlife.online> - WordPress
 - <https://jakeboring.com> - WordPress
 - <https://broswoodwork.com> - Squarespace
-- <http://fourdirecthighered.com> - WordPress
 
 And some websites I've helped make design changes on:
 - <https://ticketmanager.com> - WordPress
