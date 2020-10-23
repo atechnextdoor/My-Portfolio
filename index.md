@@ -18,4 +18,4 @@ And some websites I've helped make design changes on:
 - <https://lucynegash.com> - WordPress
 
 ### Other projects
-- <https://codepen.io/atnd/full/qzaVLX> - Wistia Embed Links HTML Player
+- <https://codepen.io/atnd/pen/qzaVLX> - Wistia Embed Links HTML Player
